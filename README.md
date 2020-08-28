@@ -1,2 +1,2 @@
-# hkh..github.io
+# hkh.github.io
 hkh的个人博客
